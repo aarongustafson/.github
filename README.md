@@ -15,9 +15,9 @@ always take precedence.
 | [Accessibility](ACCESSIBILITY.md) | Describes the standard I aim for and how to report a barrier. |
 | [Code of Conduct](CODE_OF_CONDUCT.md) | Sets expectations for respectful participation and explains how to report a problem. |
 | [Contributing](CONTRIBUTING.md) | Covers issues, pull requests, review expectations, AI-assisted work, and contribution licensing. |
+| [Funding](.github/FUNDING.yml) | Provides the funding links GitHub may show on my repositories. |
 | [Security](SECURITY.md) | Explains how to report a vulnerability privately. |
 | [Support](SUPPORT.md) | Routes bugs, questions, private requests, and accessibility feedback. |
-| [Funding](.github/FUNDING.yml) | Provides the funding links GitHub may show on my repositories. |
 
 These files apply as defaults only when a repository doesn’t have its own file
 of the same type.
