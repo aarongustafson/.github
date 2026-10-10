@@ -12,6 +12,7 @@ always take precedence.
 
 | File | Purpose |
 | --- | --- |
+| [Accessibility](ACCESSIBILITY.md) | Describes the standard I aim for and how to report a barrier. |
 | [Code of Conduct](CODE_OF_CONDUCT.md) | Sets expectations for respectful participation and explains how to report a problem. |
 | [Contributing](CONTRIBUTING.md) | Covers issues, pull requests, review expectations, AI-assisted work, and contribution licensing. |
 | [Security](SECURITY.md) | Explains how to report a vulnerability privately. |
@@ -23,8 +24,6 @@ of the same type.
 
 ## Canonical policies
 
-- [Accessibility](ACCESSIBILITY.md) describes the standard I aim for and how
-  to report a barrier.
 - [MIT License](LICENSE) is my default license for source code and code
   examples.
 - [Content license](CONTENT-LICENSE.md) applies CC BY-NC-SA 4.0 to my original
